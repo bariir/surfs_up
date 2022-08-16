@@ -36,7 +36,7 @@ The June summary statistics about the temperature has more posative outlook than
 
 
 ## Links to images:
-June Temperature:![Retirement_Titles.png](https://github.com/bariir/Pewlett-Hackard-Analysis/tree/main/Resources/Retirement_Titles.png?raw=true)
+June Temperature:![June_Temps.png](https://github.com/bariir/surfs_up/tree/main/Resources/June_Temps.png?raw=true)
 
-December Temperature:![Unique_Titles.png](https://github.com/bariir/Pewlett-Hackard-Analysis/tree/main/Resources/Unique_Titles.png?raw=true)
+December Temperature:![December_Temps.png](https://github.com/bariir/surfs_up/tree/main/Resources/December_Temps.png?raw=true)
 
